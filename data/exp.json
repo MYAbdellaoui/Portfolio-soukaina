@@ -1,0 +1,177 @@
+{
+  "name": "Soukaina Sbai",
+  "status": "Software Engineer",
+  "description": "I am passionate and interested in the fast-changing field of Web development.",
+  "navigations": [
+    {
+      "id": 1,
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "id": 2,
+      "name": "Resume",
+      "url": "/resume"
+    },
+    {
+      "id": 3,
+      "name": "Projects",
+      "url": "/projects"
+    },
+    {
+      "id": 4,
+      "name": "Experiences",
+      "url": "/experiences"
+    },
+    {
+      "id": 5,
+      "name": "About",
+      "url": "/about"
+    },
+    {
+      "id": 6,
+      "name": "Contact",
+      "url": "/contact"
+    }
+  ],
+  "contact": {
+    "title": "Contact",
+    "description": "Feel free to contact me anytime if you have any questions.",
+    "contents": [
+      {
+        "id": 1,
+        "icon": "fab fa-whatsapp",
+        "name": "WhatsApp",
+        "username": "+212 707875976",
+        "category": "Social Media",
+        "url": "https://wa.me/+212707875976"
+      },
+      {
+        "id": 5,
+        "icon": "fab fa-linkedin-in",
+        "name": "LinkedIn",
+        "username": "Soukaina Sbai",
+        "category": "Social Media",
+        "url": "https://www.linkedin.com/in/soukaina-sbai-6a6b1a206/"
+      },
+      {
+        "id": 6,
+        "icon": "fab fa-github",
+        "name": "GitHub",
+        "username": "soukaina258",
+        "category": "Social Media",
+        "url": "https://github.com/soukaina258"
+      },
+      {
+        "id": 7,
+        "icon": "far fa-envelope",
+        "name": "Gmail",
+        "username": "soukainasbai77@gmail.com",
+        "category": "Email",
+        "url": "mailto:soukainasbai77@gmail.com"
+      },
+      {
+        "id": 8,
+        "icon": "far fa-compass",
+        "name": "Location",
+        "username": "Rabat, Morocco",
+        "category": "Location",
+        "url": ""
+      }
+    ]
+  },
+  "experiences": {
+    "title": "Experiences",
+    "description": "Explore my experiences, as well as my work projects",
+    "contents": [
+      {
+        "id": 2,
+        "title": "My Experiences",
+        "contents": [
+          {
+            "id": 5,
+            "timestamp": "March 2024 - July 2024 | 5 months",
+            "name": "ENSET - Internship",
+            "info": "Fullstack Developer",
+            "technologies": "Laravel, ReactJS, Material UI, Tailwind, MySQL, REST API",
+            "description": "Subject: Implementation of an application for the management of PFE - LINKEDU",
+            "list": [
+              {
+                "id": 1,
+                "name": "Creation of a modern, responsive and intuitive interface for PFE management.",
+                "level": "Intermediate"
+              },
+              {
+                "id": 2,
+                "name": "Implementation of an API to ensure communication between the interface and the database.",
+                "level": "Intermediate"
+              },
+              {
+                "id": 3,
+                "name": "Database optimization for efficient management of student informations.",
+                "level": "Intermediate"
+              },
+              {
+                "id": 4,
+                "name": "Performing performance testing and optimization to ensure reliability before deployment.",
+                "level": "Intermediate"
+              }
+            ]
+            
+          },
+          {
+            "id": 6,
+            "timestamp": "April 2023 - July 2023 | 4 months",
+            "name": "Architeo - Internship",
+            "info": "Fullstack Developer",
+            "technologies": "HTML/CSS, Javascript, PHP, MySQL",
+            "description": "Subject: Setting up an web application that manages a coworking space - WORKVIBES",
+            "list": [
+              {
+                "id": 1,
+                "name": "I designed the application using sketching techniques to outline the user interface and functionality.",
+                "level": "Intermediate"
+              },
+              {
+                "id": 2,
+                "name": "created the database using MySQL to ensure efficient data management and storage.",
+                "level": "Intermediate"
+              },
+              {
+                "id": 3,
+                "name": "created the conception : use case , class and sequence diagrams using StarUML ",
+                "level": "Intermediate"
+              },
+              {
+                "id": 4,
+                "name": "developed user interfaces using HTML, CSS, and JavaScript, built the backend in PHP, and created an admin dashboard for user management.",
+                "level": "Intermediate"
+              }
+            ]
+          },
+          {
+            "id": 7,
+            "timestamp": "March 2022 - May 2022 | 3 Months",
+            "name": "Ministry of Justice - Internship",
+            "info": "Software Developer",
+            "description": "Subject: Implementation of an Application for Managing an IT Asset Inventory",
+            "technologies": "ADO.NET, C#, SQL SERVER",
+            "url": "",
+            "list": [
+              {
+                "id": 1,
+                "name": "Developed data management features and designed a robust database to enhance application functionality.",
+                "level": "Intermediate"
+              },
+              {
+                "id": 2,
+                "name": "Integrated user interfaces and conducted thorough functional and integration testing to ensure reliability and user satisfaction.",
+                "level": "Expert"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

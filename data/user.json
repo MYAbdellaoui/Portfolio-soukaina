@@ -1,0 +1,372 @@
+{
+  "name": "Soukaina Sbai",
+  "status": "Software Engineer",
+  "description": "I am passionate and interested in the fast-changing field of Web development.",
+  "imageURL":"/dev.png",
+  "navigations": [
+    {
+      "id": 1,
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "id": 2,
+      "name": "Resume",
+      "url": "/resume"
+    },
+    {
+      "id": 3,
+      "name": "Projects",
+      "url": "/projects"
+    },
+    {
+      "id": 4,
+      "name": "Experiences",
+      "url": "/experiences"
+    },
+    {
+      "id": 5,
+      "name": "About",
+      "url": "/about"
+    },
+    {
+      "id": 6,
+      "name": "Contact",
+      "url": "/contact"
+    }
+  ],
+  "services": [
+    {
+      "id": 2,
+      "name": "Frontend dev",
+      "description": "I design and develop intuitive, responsive user interfaces, transforming visual designs into seamless web experiences with optimal performance.",
+      "icon": "/services/service-website.svg"
+    },
+    {
+      "id": 3,
+      "name": "Backend dev",
+      "description": "I create scalable and efficient backend systems, manage databases, and integrate APIs to ensure reliable communication for high-performance web applications.",
+      "icon": "/services/service-webapps.svg"
+    },
+    {
+      "id": 4,
+      "name": "UI/UX design",
+      "description": "Develop a good UI/UX designs using Figma and Photoshop/illistrator",
+      "icon": "/services/service-rwd.svg"
+    }
+   
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "name": "HTML 5",
+      "icon": "/skills/skill-html5.svg"
+    },
+    {
+      "id": 2,
+      "name": "CSS 3",
+      "icon": "/skills/skill-css3.svg"
+    },
+    {
+      "id": 3,
+      "name": "Javascript",
+      "icon": "/skills/skill-javascript.svg"
+    },
+    {
+      "id": 4,
+      "name": "TailwindCss",
+      "icon": "/skills/skill-tailwindcss.svg"
+    },
+    {
+      "id": 5,
+      "name": "Python",
+      "icon": "/skills/python.png"
+    },
+    {
+      "id": 6,
+      "name": "Laravel",
+      "icon": "/skills/laravel.png"
+    },
+    {
+      "id": 7,
+      "name": "React JS",
+      "icon": "/skills/skill-reactjs.svg"
+    },
+    {
+      "id": 8,
+      "name": "Next JS",
+      "icon": "/skills/skill-nextjs.svg"
+    },
+    {
+      "id": 9,
+      "name": "Firebase",
+      "icon": "/skills/skill-firebase.svg"
+    },
+    {
+      "id": 10,
+      "name": "Git",
+      "icon": "/skills/skill-git.svg"
+    },
+    {
+      "id": 11,
+      "name": "Github",
+      "icon": "/skills/skill-github.svg"
+    },
+    {
+      "id": 13,
+      "name": "PHP",
+      "icon": "/skills/php1.png"
+    },
+    {
+      "id": 14,
+      "name": "C#",
+      "icon": "/skills/c_-skill.png"
+    },
+    {
+      "id": 15,
+      "name": "Java",
+      "icon": "/skills/java.png"
+    },
+    {
+      "id": 16,
+      "name": "Visual Studio Code",
+      "icon": "/skills/vscode.png"
+    },
+    {
+      "id": 17,
+      "name": "Bootsrap",
+      "icon": "/skills/bootstrap.png"
+    },
+    {
+      "id": 18,
+      "name": " Linux",
+      "icon": "/skills/Linux.png"
+    },
+    {
+      "id": 19,
+      "name": "MySQL",
+      "icon": "/skills/mysql.svg"
+    },
+    {
+      "id": 20,
+      "name": "Photoshop",
+      "icon": "/skills/photoshop.png"
+    },
+    {
+      "id": 21,
+      "name": "Illustartor",
+      "icon": "/skills/illustartor.png"
+    },
+    {
+      "id": 21,
+      "name": "Figma",
+      "icon": "/skills/figma.png"
+    },
+    {
+      "id": 22,
+      "name": "Android Studio",
+      "icon": "/skills/android.webp"
+    }
+  ],
+  "project": {
+    "title": "Project",
+    "desctiption": "Some of the projects that I've worked on to completion with some of the technologies",
+    "contents": [
+      {
+        "id": 1,
+        "top": true,
+        "image": "/fitness.PNG",
+        "name": "Fitness Website",
+        "stack": "HTML, CSS, Firebase",
+        "category": "Personal Project",
+        "url": "https://sbaifitclub.web.app/"
+      },
+      {
+        "id": 2,
+        "top": false,
+        "image": "/bladiFood.png",
+        "name": "BladiFood Restaurant",
+        "stack": "Laravel, HTML5/CSS3, JavaScript",
+        "category": "Personal Project",
+        "url": ""
+      },
+      {
+        "id": 3,
+        "top": true,
+        "image": "/coworking.png",
+        "name": "CoworkingSpace Project",
+        "stack": "PHP, HTML5/CSS3/JS, Bootstrap",
+        "category": "Personal Project",
+        "url": ""
+      },
+      {
+        "id": 4,
+        "top": true,
+        "image": "/linkedu.jpeg",
+        "name": "LinkEDU Project",
+        "stack": "Material UI, Tailwindcss, React JS, Laravel, REST API",
+        "category": "Personal Project",
+        "url": ""
+      },
+      {
+        "id": 5,
+        "top": false,
+        "image": "/Mobile.png",
+        "name": "SOFPhones Store",
+        "stack": "HTML, CSS, JavaScript",
+        "category": "Personal Project",
+        "url": ""
+      },
+      {
+        "id": 6,
+        "top": false,
+        "image": "/app.jpg",
+        "name": "Parc Informatique App",
+        "stack": "C#, ADO.NET",
+        "category": "Personal Project",
+        "url": ""
+      },
+      {
+        "id": 7,
+        "top": false,
+        "image": "/musicApp.png",
+        "name": "Recognition of Music App ",
+        "stack": "JAVA, eclipse",
+        "category": "Personal Project",
+        "url": ""
+      },
+      {
+        "id": 8,
+        "top": true,
+        "image": "/portfolio.png",
+        "name": "Portfolio Website ",
+        "stack": "ReactJS, Nextjs, Tailwind Css",
+        "category": "Personal Project",
+        "url": ""
+      }
+     
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "Chat with me through some of the contacts you can call to get acquainted.",
+    "contents": [
+
+      {
+        "id": 5,
+        "icon": "fab fa-linkedin-in",
+        "name": "Linkedin",
+        "username": "Soukaina Sbai",
+        "category": "Social Media",
+        "url": "https://www.linkedin.com/in/soukaina-sbai-6a6b1a206/"
+      },
+      {
+        "id": 6,
+        "icon": "fab fa-github",
+        "name": "Github",
+        "username": "soukaina258",
+        "category": "Social Media",
+        "url": "https://github.com/soukaina258"
+      },
+      {
+        "id": 7,
+        "icon": "far fa-envelope",
+        "name": "Gmail",
+        "username": "soukainasbai77@gmail.com",
+        "category": "Email",
+        "url": "mailto:soukainasbai77@gmail.com"
+      },
+      {
+        "id": 8,
+        "icon": "far fa-compass",
+        "name": "Location",
+        "username": "Morocco, Rabat",
+        "category": "location",
+        "url": ""
+      }
+    ]
+  },
+  "about": {
+    "title": "About",
+    "description": "Get acquainted further about me, story and biography of my life",
+    "contents": [
+      {
+        "id": 1,
+        "name": "Who I am ?",
+        "description": "Hi, my name is Soukaina Sbai from Morocco. I am a final-year Software Engineering student, highly motivated and passionate about programming."
+      },
+      {
+        "id": 2,
+        "name": "What am i Doing",
+        "description": "Currently, I am dedicated to mastering full-stack development, with a focus on front-end frameworks such as React, Next.js, and Angular, as well as back-end technologies like Spring Boot and MongoDB. Committed to staying at the forefront of technology, I actively integrate new concepts into personal projects to build a robust, hands-on portfolio."
+      },
+      {
+        "id": 3,
+        "name": "What Next",
+        "description": "My goal now is to master Front-End and Back-End technologies. So that I can build a solution to an existing problem easily. Even though it is not easy and it takes a long time, I believe I can achieve it if I practice and learn continuously."
+      },
+      {
+        "id": 4,
+        "name": "Dreams and Wishes",
+        "description": "I aim to work with top companies in Morocco in software engineering. I'm focused on improving my skills and hope to inspire and mentor others to build a better future."
+      }
+    ]
+  },
+  "resume": {
+    "title": "Resume",
+    "description": "Explore my Education",
+    "contents": [
+      {
+        "id": 2,
+        "title": "Education",
+        "contents": [
+          {
+            "id": 5,
+            "timestamp": "2022 - Present",
+            "name": "Cycle d'ingénieure en Génie informatique",
+            "info": "SUPMTI - Rabat",
+            "description": "École Supérieure de Management, de Télécommunications et d'Informatique.",
+            "url": "https://drive.google.com/file/d/1lIoVZkNmCotUMYtBgagHszL-sNg0o0pF/view?usp=sharing",
+            "list": [
+              {
+                "id": 1,
+                "name": "Final Year",
+                "level": ""
+              }
+            ]
+          },
+          {
+            "id": 4,
+            "timestamp": "2020 - 2022",
+            "name": "Technicien Spécialisé en Développement Informatique",
+            "info": "OFPPT - Rabat",
+            "description": "Institut De Technologie Appliquee Yacoub El Mansour",
+            "url": "",
+            "list": [
+              {
+                "id": 1,
+                "name": "Mention Assez-Bien",
+                "level": ""
+              }
+            ]
+          },
+          {
+            "id": 3,
+            "timestamp": "2019 - 2020 ",
+            "name": "Baccalauréat ",
+            "info": "Lycee Ibn Roched - Rabat",
+            "description": "Baccalauréat en Sciences de la Vie et de la Terre (SVT)",
+            "url": "",
+            "list": [
+              {
+                "id": 1,
+                "name": "Mention Bien",
+                "level": "Expert"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
